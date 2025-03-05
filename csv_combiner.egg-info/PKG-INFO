@@ -1,11 +1,6 @@
 Metadata-Version: 2.2
-Name: csv_combiner
-Version: 1.0
-Summary: Combined CSV files
-Requires-Dist: pandas
+Name: CSV_Combiner
+Version: 1.0.0
+Requires-Python: >=3.6
 Requires-Dist: numpy
-Provides-Extra: test
-Requires-Dist: tk; extra == "test"
-Dynamic: provides-extra
-Dynamic: requires-dist
-Dynamic: summary
+Requires-Dist: pandas

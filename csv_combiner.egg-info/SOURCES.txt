@@ -1,1 +1,10 @@
 README.md
+pyproject.toml
+setup.py
+CSV_Combiner/CSV_Combiner.py
+CSV_Combiner/__init__.py
+CSV_Combiner.egg-info/PKG-INFO
+CSV_Combiner.egg-info/SOURCES.txt
+CSV_Combiner.egg-info/dependency_links.txt
+CSV_Combiner.egg-info/requires.txt
+CSV_Combiner.egg-info/top_level.txt
