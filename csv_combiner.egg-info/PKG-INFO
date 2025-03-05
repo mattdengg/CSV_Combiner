@@ -4,8 +4,3 @@ Version: 1.0.0
 Requires-Python: >=3.6
 Requires-Dist: numpy
 Requires-Dist: pandas
-
-
-To Use:
-1. Run `pip install .` at the base directory
-2. Python3 CSV_Combiner/CSV_Combiner.py
