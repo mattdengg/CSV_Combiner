@@ -19,6 +19,9 @@ def combine_csv(files, output_file):
 # Open file dialog to select CSV files
 root = tk.Tk()
 root.withdraw()  # Hide the root window
+root.attributes('-topmost', True)  # Force pop-up to front
+root.update()  # Ensures Tkinter initializes properly
+
 csv_files = filedialog.askopenfilenames(title="Select CSV files", filetypes=[("CSV files", "*.csv")])
 
 if csv_files:
