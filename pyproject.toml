@@ -7,6 +7,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "CSV_Combiner"
 version = "1.0.0"
+readme = "README.MD"
 dependencies = [
     "numpy",
     "pandas"

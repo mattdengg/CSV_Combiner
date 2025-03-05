@@ -1,10 +1,10 @@
-from setuptools import setup
+from setuptools import setup, find_packages
 
 setup(
     name='csv_combiner',
     version='1.0',
     description='Combined CSV files',
-    packages=['CSV_Combiner'],
+    packages=find_packages(),
     install_requires=[
         'pandas',
         'numpy',
