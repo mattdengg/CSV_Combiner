@@ -1,0 +1,11 @@
+Metadata-Version: 2.2
+Name: csv_combiner
+Version: 1.0
+Summary: Combined CSV files
+Requires-Dist: pandas
+Requires-Dist: numpy
+Provides-Extra: test
+Requires-Dist: tk; extra == "test"
+Dynamic: provides-extra
+Dynamic: requires-dist
+Dynamic: summary
