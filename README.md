@@ -3,7 +3,7 @@
 **Run the following:**
 
 ```bash
-`pip install .`
+pip install .
 ```
 ```bash
 Python3 CSV_Combiner/CSV_Combiner.py
