@@ -1,8 +1,10 @@
-**To Use:**
+# To Use: #
+
+**Run the following:**
 
 ```bash
-1. `pip install .`
+`pip install .`
 ```
 ```bash
-2. Python3 CSV_Combiner/CSV_Combiner.py
+Python3 CSV_Combiner/CSV_Combiner.py
 ```
